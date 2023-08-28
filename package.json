@@ -1,0 +1,21 @@
+{
+  "name": "lukodark",
+  "displayName": "LukoDark",
+  "description": "Dark Theme for Luko",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luko Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luko Dark-color-theme.json"
+      }
+    ]
+  }
+}
